@@ -8,16 +8,16 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'aa573629-34df-4fb3-8a7f-c02dbe9ebcd9'
+  azureServiceConnectionId: 'a10210ca-bb6f-476a-ae06-a2f6bf299f84'
 
   # Web app name
-  webAppName: 'helloflaskappudacity'
+  webAppName: 'flask-ml-service-app-kelava'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
   # Environment name
-  environmentName: 'helloflaskappudacity'
+  environmentName: 'flask-ml-service-app-kelava'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
@@ -80,7 +80,7 @@ stages:
             displayName: 'Use Python version'
 
           - task: AzureWebApp@1
-            displayName: 'Deploy Azure Web App : helloflaskappudacity'
+            displayName: 'Deploy Azure Web App : flask-ml-service-app-kelava'
             inputs:
               azureSubscription: $(azureServiceConnectionId)
               appName: $(webAppName)
