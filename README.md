@@ -23,8 +23,13 @@ https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7Jft
 * Project running on Azure App Service
 
 * Project cloned into Azure Cloud Shell
+![image](images/creating-repo-with-ssh.png)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![image](images/test_pass.png)
+
+* Example of failing test
+![image](images/test-fail.png)
 
 * Output of a test run
 
