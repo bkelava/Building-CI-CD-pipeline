@@ -1,12 +1,13 @@
 # Overview
 
+[![Python application test with Github Actions](https://github.com/bkelava/Building-CI-CD-pipeline/actions/workflows/pylint.yml/badge.svg)](https://github.com/bkelava/Building-CI-CD-pipeline/actions/workflows/pylint.yml)
+
 This is a learning project for Continuous Integration and Continuous Delivery using Azure, Github Actions and some additional tools.
 
 ## Project Plan
 
 #### Trello Board
 https://trello.com/b/rdUhdeFN
-
 
 #### Spreadsheet Project plan
 https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7JftJpQ/edit#gid=1348135932
@@ -44,15 +45,19 @@ https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7Jft
 ![image](images/prediction.png)
 
 * Output of streamed log files from deployed application
-
-> 
+![image-log1](images/logs/log1.png)
+![image-log2](images/logs/log2.png)
+![image-log3](images/logs/log3.png)
+![image-log4](images/logs/log4.png)
+![image-log5](images/logs/log5.png)
+![image-log6](images/logs/log6.png)
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+* Using GitHub actions to deploy the web applications can improve this project. 
+* For continuous delivery, we can use GitHub Actions and Azure Pipelines. 
+* We can also change the pipeline such that it only fires when there is a Pull Request.
 
-## Demo 
+## Demo
 
-<TODO: Add link Screencast on YouTube>
-
-
+https://www.youtube.com/watch?v=0CzSdVLHLNY
