@@ -10,7 +10,7 @@ This is a learning project for Continuous Integration and Continuous Delivery us
 https://trello.com/b/rdUhdeFN
 
 #### Spreadsheet Project plan
-https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7JftJpQ/edit#gid=1348135932
+https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7JftJpQ/edit?usp=sharing
 
 ## Instructions
 
