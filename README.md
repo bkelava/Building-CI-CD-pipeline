@@ -2,7 +2,7 @@
 
 [![Python application test with Github Actions](https://github.com/bkelava/Building-CI-CD-pipeline/actions/workflows/pylint.yml/badge.svg)](https://github.com/bkelava/Building-CI-CD-pipeline/actions/workflows/pylint.yml)
 
-This is a learning project for Continuous Integration and Continuous Delivery using Azure, Github Actions and some additional tools.
+Infrastructure as code provides a significant advantage in terms of defining, deploying, upgrading, and destroying infrastructure. So, in order to produce a virtual machine image that contains our application for repeatable deployments, we'll utilize packer (in JSON format). Terraform extends this by deploying storage, networking, and security entities across numerous infrastructures, clouds, and vendors, in addition to virtual machines. This project will deploy a flexible, scalable web server in Azure using a Packer template and a Terraform template based on them.
 
 ## Project Plan
 
