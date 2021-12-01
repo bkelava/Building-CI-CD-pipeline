@@ -17,9 +17,19 @@ https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7Jft
 #### Architectural Diagram
 ![image](images/diagram.png)
 
-1. Create Github repository
+1. Launch an Azure Cloud Shell environment and create ssh-keys, upload those keys to your GitHub account, reffer to documentation: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+2. Create project scaffolding, files are provided in this repository.
+3. Make local test
+4. Clone project to Cloud Shell
+5. Configure GitHub Actions
+6. Create continous delivery in Azure- make a prediction test with Locust
+7. Enable continous deployment iz Azure Pipelines
+8. Enable GitHub actions to worth with Azure Piplens
+9. Make a final test and stream logs
 
-2. Launch an Azure Cloud Shell environment and create ssh-keys, upload those keys to your GitHub account, reffer to documentation: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+##### !!! Instructions are provided in video below
+
+### Screenshots
 
 * Project running on Azure App Service
 ![image](images/2021-11-04_10h58_56.png)
