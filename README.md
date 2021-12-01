@@ -27,7 +27,7 @@ https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7Jft
 8. Enable GitHub actions to worth with Azure Piplens
 9. Make a final test and stream logs
 
-:information_source: Instructions are provided in video below
+:information_source: Instructions are provided in video below :information_source:
 
 ### Screenshots
 
