@@ -34,6 +34,9 @@ https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7Jft
 * Example of failing test
 ![image](images/test-fail.png)
 
+* Locust run
+![image](images/locust.png)
+
 * Output of a test run
 ![image](images/git-build-pass.png)
 
