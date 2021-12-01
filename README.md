@@ -22,7 +22,7 @@ https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7Jft
 3. Make local test
 4. Clone project to Cloud Shell
 5. Configure GitHub Actions
-6. Create continous delivery in Azure- make a prediction test with Locust
+6. Create continous delivery in Azure
 7. Enable continous deployment iz Azure Pipelines
 8. Enable GitHub actions to worth with Azure Piplens
 9. Make a final test and stream logs
