@@ -45,6 +45,9 @@ https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7Jft
 * Successful prediction from deployed flask app in Azure Cloud Shell. (https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 ![image](images/prediction.png)
 
+* App-services in Microsoft Azure
+![image](images/app-services.png)
+
 * Output of streamed log files from deployed application
 ![image-log1](images/logs/log1.png)
 ![image-log2](images/logs/log2.png)
