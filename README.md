@@ -25,6 +25,7 @@ https://docs.google.com/spreadsheets/d/1fNluo_JC4HPWBknRxiDxSQpSzh9pzC0QY8Lm7Jft
 ![image](images/2021-11-04_10h58_56.png)
 
 * Project cloned into Azure Cloud Shell
+![image](images/clone.png)
 ![image](images/creating-repo-with-ssh.png)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
