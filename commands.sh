@@ -1,5 +1,5 @@
 cd CICD-Pipeline
-git clone https://github.com/wujenny15/Udacity-Build-CI-CD-Pipeline.git
+git clone https://github.com/bkelava/Building-CI-CD-Pipeline.git
 
 pip install virtualenv
 virtualenv ~/.azure-devops
